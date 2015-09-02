@@ -11,6 +11,7 @@ namespace goodtest
         static void Main(string[] args)
         {
             int x = 3;
+            x = x + 4;
         }
     }
 }
